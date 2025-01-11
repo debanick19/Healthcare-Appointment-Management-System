@@ -1,0 +1,51 @@
+doctor_id,name,specialty,availability_slots,contact_info
+1,Russell Pittman,General Medicine,12:00 - 18:00,5811722884
+2,Katherine Petersen,Neurology,9:00 - 19:00,598.146.0768x396
+3,Ann Brown,General Medicine,8:00 - 19:00,144.787.4311
+4,Melinda Hart,Oncology,14:00 - 21:00,160.235.5577x05638
+5,Tyrone Daniels,Gastroenterology,13:00 - 19:00,029-911-2458x0685
+6,Kathleen Mccall,Orthopedics,13:00 - 21:00,001-537-667-2373
+7,Martin Hernandez,Orthopedics,9:00 - 18:00,317.209.5810x295
+8,Jane Olson,General Medicine,8:00 - 20:00,0402800588
+9,David Stephens,Dermatology,9:00 - 21:00,996.008.1371x734
+10,Roger Smith,Orthopedics,9:00 - 18:00,(554)514-8403x828
+11,Amanda Peters,Dermatology,9:00 - 20:00,(031)669-6992x626
+12,James Brooks,Neurology,10:00 - 20:00,188.812.9072x42526
+13,John Alexander,General Medicine,16:00 - 19:00,001-565-734-0581
+14,Jon Richmond,Orthopedics,12:00 - 18:00,(146)480-0239
+15,Zachary Decker,Oncology,13:00 - 22:00,(308)579-7504x2214
+16,Gary Rhodes,General Medicine,14:00 - 21:00,456-097-9108
+17,Ruben Alvarez,Gastroenterology,11:00 - 21:00,998-378-9588
+18,Anthony Johnson,Oncology,12:00 - 17:00,+1-312-921-3644
+19,Shannon Wilson,Psychiatry,14:00 - 21:00,083.079.4371x874
+20,Todd Young,General Medicine,8:00 - 17:00,873-107-3630x6780
+21,Theodore Wagner,Orthopedics,8:00 - 18:00,(222)044-9381
+22,Crystal Smith,Dermatology,14:00 - 22:00,1182372539
+23,Jeffrey Johnson,Gastroenterology,12:00 - 19:00,(636)610-7034x43337
+24,Katie Hood,Neurology,12:00 - 20:00,617.754.0404x827
+25,Jennifer Huffman,Orthopedics,13:00 - 17:00,101.476.1256
+26,Nicole Miranda,Cardiology,10:00 - 19:00,430-540-7813x078
+27,Deanna Adams,Psychiatry,13:00 - 17:00,(143)694-6751
+28,Jeffrey Davis,Neurology,12:00 - 21:00,(853)025-4787x79571
+29,Mr. Terry Hart,Pediatrics,13:00 - 21:00,001-502-372-3477x20977
+30,Anthony Lewis,Orthopedics,13:00 - 20:00,001-962-081-2275
+31,Amy Turner,Gastroenterology,16:00 - 18:00,(004)724-4223x405
+32,Connie Escobar,General Medicine,14:00 - 17:00,6198229094
+33,Courtney Conner,General Medicine,14:00 - 17:00,(765)964-0247
+34,Heather Glass,Gastroenterology,16:00 - 21:00,+1-526-607-6004x5034
+35,Eric Brown,Radiology,9:00 - 19:00,001-524-154-5203
+36,Pamela Griffin,Cardiology,13:00 - 21:00,+1-930-596-3817x3145
+37,Kelli Allen,Orthopedics,16:00 - 17:00,563-039-8776x1476
+38,Robert Esparza,Pediatrics,14:00 - 17:00,001-106-323-4591x202
+39,Nicole Marshall,Psychiatry,16:00 - 21:00,8555896074
+40,Jose Copeland,General Medicine,8:00 - 17:00,001-581-803-2192x661
+41,Kimberly Rivers,Pediatrics,12:00 - 17:00,(883)700-8228
+42,Aaron Wong,Psychiatry,13:00 - 17:00,512.278.6612x299
+43,Paul Love,Orthopedics,13:00 - 19:00,404-765-7845x558
+44,Linda Sanders,General Medicine,11:00 - 21:00,7459716510
+45,Michael Dickerson,Dermatology,11:00 - 19:00,409-983-2705x5396
+46,Alicia Bradford,Oncology,11:00 - 17:00,190-084-1326
+47,Janet Johnson,General Medicine,15:00 - 18:00,1780208867
+48,Charles Mack,Gastroenterology,8:00 - 21:00,7226424943
+49,Jennifer Petersen,Cardiology,10:00 - 21:00,(916)930-8051
+50,Robert Reed,Oncology,11:00 - 22:00,7627934060

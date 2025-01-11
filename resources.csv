@@ -1,0 +1,51 @@
+resource_id,hospital_id,resource_name,availability_status
+1,2,ICU Bed,In Use
+2,1,MRI Machine,Under Maintenance
+3,2,Defibrillator,In Use
+4,5,MRI Machine,In Use
+5,10,X-Ray Machine,Available
+6,3,ICU Bed,In Use
+7,4,CT Scanner,Available
+8,5,X-Ray Machine,Available
+9,7,Ultrasound Machine,In Use
+10,6,ICU Bed,In Use
+11,3,CT Scanner,Under Maintenance
+12,2,Ventilator,In Use
+13,4,ICU Bed,Available
+14,9,Defibrillator,Under Maintenance
+15,5,Ultrasound Machine,Available
+16,8,Oxygen Cylinder,Available
+17,6,ICU Bed,In Use
+18,2,MRI Machine,In Use
+19,1,Ventilator,Under Maintenance
+20,10,Oxygen Cylinder,In Use
+21,8,ICU Bed,Available
+22,3,ICU Bed,Available
+23,5,Ventilator,Under Maintenance
+24,5,CT Scanner,Available
+25,5,Defibrillator,In Use
+26,3,CT Scanner,In Use
+27,3,Ventilator,In Use
+28,1,CT Scanner,Available
+29,2,ICU Bed,Available
+30,2,MRI Machine,Under Maintenance
+31,8,Oxygen Cylinder,Available
+32,4,MRI Machine,Available
+33,3,Ultrasound Machine,Available
+34,3,Ventilator,Available
+35,2,CT Scanner,Available
+36,4,CT Scanner,Available
+37,8,Oxygen Cylinder,Available
+38,2,Defibrillator,Under Maintenance
+39,6,X-Ray Machine,In Use
+40,4,Ultrasound Machine,In Use
+41,9,ICU Bed,Available
+42,5,Defibrillator,Under Maintenance
+43,7,CT Scanner,Under Maintenance
+44,4,MRI Machine,Under Maintenance
+45,8,Ventilator,Under Maintenance
+46,5,Defibrillator,Under Maintenance
+47,7,Ventilator,Under Maintenance
+48,1,Ventilator,In Use
+49,1,Ultrasound Machine,In Use
+50,6,Ventilator,In Use
