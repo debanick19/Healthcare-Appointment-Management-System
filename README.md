@@ -11,7 +11,7 @@ Objective: To provide a database-backed system for managing doctor appointments,
 -- Features --
 
 
-1 . Patient Records: Manage patient profiles with contact information and medical history
+1. Patient Records: Manage patient profiles with contact information and medical history
 
 2. Doctor Details: Store doctor availability, specialties, and contact information.
 
